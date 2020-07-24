@@ -17,7 +17,7 @@ One of my friend, Youran, got a query request from her company wherein they want
 
 ## Steps to replicate:
 Steps to replicate:
-1. Go to https://sqliteonline.com/ and connect to "MS SQL" because that's what I used for here.
+1. Go to https://sqliteonline.com/ and connect to "MS SQL" because that's what I used for this exercise here.
 
 2. Run these queries:
 ```
