@@ -1,6 +1,7 @@
 # SQL-Exercise-2
 In this exercise we will try to answer a specific data requirement.
 
+
 ## Exercise: 
 One of my friend, Youran, got a query request from her company wherein they wanted to look into a data to find number of records/bookings such that:
 1. It should look for the first ever date in the date field and then based on that date create a 3 month rolling window
@@ -80,3 +81,7 @@ END;
 
 SELECT * from date_practice;
 ```
+
+
+## Final output snapshot:
+![image](https://user-images.githubusercontent.com/6689256/88373468-e1afb080-cd65-11ea-988b-1ab1e79f63c2.png)
