@@ -2,7 +2,7 @@
 In this exercise we will try to answer a specific data requirement.
 
 ## Exercise: 
-One of my friend, Youran, got a query request from her company wherein they wanted to look into a data to find no of records/booking such that:
+One of my friend, Youran, got a query request from her company wherein they wanted to look into a data to find number of records/bookings such that:
 1. It should look for the first ever date in the date field and then based on that date create a 3 month rolling window
 2. Now, in the period column we must have period as 1 for the dates that fall between the first date and the next 3 months window.
 3. Then we look for thr first date that falls outside this window and take that as the initial point and again create a 3 month window.
