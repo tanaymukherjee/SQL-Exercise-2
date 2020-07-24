@@ -83,5 +83,5 @@ SELECT * from date_practice;
 ```
 
 
-## Final output snapshot:
+## Final output's snapshot:
 ![image](https://user-images.githubusercontent.com/6689256/88373468-e1afb080-cd65-11ea-988b-1ab1e79f63c2.png)
