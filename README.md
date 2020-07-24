@@ -61,9 +61,9 @@ set @end_date = DATEADD(MONTH, 3, @start_date );
 
 DECLARE @counter INT
 set @counter = 1;
+
 DECLARE @limit INT
 SELECT @limit = COUNT(DISTINCT(date)) FROM date_practice where period = 0;
-
 
 WHILE (@limit != 0)
 BEGIN
